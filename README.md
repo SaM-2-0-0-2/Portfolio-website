@@ -8,7 +8,7 @@ Designed with a clean dark theme, smooth interactions, and a strong focus on usa
 
 ## 🌐 Live Demo
 👉 **[View Portfolio](#)**  
-*(Replace `#` with your deployed link – Netlify / GitHub Pages / Vercel)*
+*https://sam-2-0-0-2.github.io/Portfolio-website/index.html*
 
 ---
 
