@@ -7,7 +7,7 @@ Designed with a clean dark theme, smooth interactions, and a strong focus on usa
 ---
 
 ## 🌐 Live Demo
-👉 *#https://sam-2-0-0-2.github.io/Portfolio-website/index.html*  
+👉 #https://sam-2-0-0-2.github.io/Portfolio-website/index.html*  
 
 ---
 
